@@ -1,8 +1,10 @@
 ## Data-Optimized Spatial Field Predictions for Robotic Adaptive Sampling: A Gaussian Process Approach
 
+#### Zachary Nathan, Advised by Professor Alberto Quattrini Li
+
 Undergraduate Honors Thesis in Computer Science
 
-Zachary Nathan, Advised by Professor Alberto Quattrini Li
+Dartmouth College, May 31 2023
 
 Upon completion, the written thesis will be published here: https://digitalcommons.dartmouth.edu/cs_senior_theses/
 
