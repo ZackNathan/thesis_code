@@ -4,7 +4,9 @@ Undergraduate Honors Thesis in Computer Science
 
 Zachary Nathan, Advised by Professor Alberto Quattrini Li
 
-Files:
+Upon completion, the written thesis will be published here: https://digitalcommons.dartmouth.edu/cs_senior_theses/
+
+Files in this repo:
 - `GP_predictive_sampling.ipynb` is the project codebase, including the GP models, API, experiments, and figures
 - `lake_sunapee_dataset.csv` contains the Catabot sensor measurements from Lake Sunapee
 - `earth_engine_dataset.csv` contains the Copernicus Sentinel-5P measurements from Google Earth Engine
