@@ -1,5 +1,3 @@
-# thesis_code
-
 ## Data-Optimized Spatial Field Predictions for Robotic Adaptive Sampling: A Gaussian Process Approach
 
 Undergraduate Honors Thesis in Computer Science
